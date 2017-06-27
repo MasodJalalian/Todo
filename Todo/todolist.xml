@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <todoItems>
+        <action>washing</action>
+        <done>false</done>
+    </todoItems>
+    <todoItems>
+        <action>cleaning</action>
+        <done>true</done>
+    </todoItems>
+    <todoItems>
+        <action>shopping</action>
+        <done>false</done>
+    </todoItems>
+</root>
